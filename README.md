@@ -1,4 +1,4 @@
-# FOR-SOPS
+# FOR-Standard Operating Procedure
 
 The Roots Team consist of a well developed team with a variety of skillsets from different backgrounds. 
 
