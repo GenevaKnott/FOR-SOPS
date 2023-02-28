@@ -26,20 +26,21 @@ The Roots Team consist of a well developed team with a variety of skillsets from
 
 + How will technology needs be handled for employees being onboarded?
 
-[Handling technology needs for Onboarding Employee](https://github.com/THE-ROOTS/FOR-SOPS/blob/main/Handling%20Technology%20issues%20for%20Onboarding%20Employees)
+[Handling Technology Needs for Onboarding Employee](https://github.com/THE-ROOTS/FOR-SOPS/blob/main/Handling%20Technology%20for%20Onboard.pdf)
 
 + How will technology needs be handled for employees being terminated?
 
-[Handling technology issues for terminated employee](https://github.com/THE-ROOTS/FOR-SOPS/blob/main/Handling%20Technology%20for%20Terminated%20Employees.pdf)
+[Handling Technology Issues for Terminated Employee](https://github.com/THE-ROOTS/FOR-SOPS/blob/main/Handling%20Technology%20for%20Terminated%20Employees.pdf)
 
 + How will remote, offsite support engagements take place?
 
 + How will you secure Windows 10 endpoint workstations from data loss and malware threats?
 
-[Securing windows 10 endpoint workstations](https://github.com/THE-ROOTS/FOR-SOPS/blob/main/Securing%20Windows%2010%20Endpoint%20Workstations)
+[Securing Windows 10 Endpoint Workstations](https://github.com/THE-ROOTS/FOR-SOPS/blob/main/Securing%20Windows%2010%20Endpoint%20Workstations)
 
 + How will you administer and support Windows systems?
 
 + How will your company enhance the network’s usability and security?
 
 + How will you support company cloud services?
+At this time are client does not wish to pursue. 
