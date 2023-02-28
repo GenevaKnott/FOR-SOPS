@@ -28,6 +28,8 @@ The Roots Team consist of a well developed team with a variety of skillsets from
 
 + How will technology needs be handled for employees being terminated?
 
+[Handling technology issues for terminated employee](https://github.com/THE-ROOTS/FOR-SOPS/blob/main/Handling%20Technology%20issues%20for%20Terminated%20Employees)
+
 + How will remote, offsite support engagements take place?
 
 + How will you secure Windows 10 endpoint workstations from data loss and malware threats?
