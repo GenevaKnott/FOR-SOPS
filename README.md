@@ -48,5 +48,7 @@ The Roots Team consist of a well developed team with a variety of skillsets from
 
 + How will your company enhance the network’s usability and security?
 
+[Enhance the network's usability and security](https://github.com/THE-ROOTS/FOR-SOPS/blob/main/Enhance%20the%20network%E2%80%99s%20usability%20and%20security)
+
 + How will you support company cloud services?
 At this time are client does not wish to pursue. 
