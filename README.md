@@ -20,7 +20,7 @@ The Roots Team consist of a well developed team with a variety of skillsets from
 
 + What troubleshooting methodology will your technicians follow during support engagements?
 
-[Troubleshooting methodology](https://github.com/THE-ROOTS/FOR-SOPS/blob/main/Troubleshooting%20methodology)
+[Troubleshooting methodology](https://github.com/THE-ROOTS/FOR-SOPS/blob/main/Troubleshooting%20Methodology.pdf)
 
 + How will user or department technology purchase requests be handled?
 
