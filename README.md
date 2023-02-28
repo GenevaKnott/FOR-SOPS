@@ -51,4 +51,6 @@ The Roots Team consist of a well developed team with a variety of skillsets from
 [Enhance the network's usability and security](https://github.com/THE-ROOTS/FOR-SOPS/blob/main/Enhance%20the%20Network.pdf)
 
 + How will you support company cloud services?
-At this time are client does not wish to pursue. 
+[At this time are client does not wish to pursue](https://github.com/THE-ROOTS/FOR-SOPS/blob/main/Create%20Support%20Company%20Cloud%20Service.pdf) 
+
+
