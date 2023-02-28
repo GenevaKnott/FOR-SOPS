@@ -1,0 +1,27 @@
+# Introduction:
+  This document outlines the Standard Operating Procedures (SOPs) for securing Windows 10 endpoint workstations from data loss and malware threats. These procedures are designed to protect company data and assets from external and internal threats, and to ensure that endpoint workstations are properly secured.
+
+    Software and Configuration Management
+    1.1 Operating System Updates: Ensure that all Windows 10 endpoint workstations are up-to-date with the latest security updates and patches.
+    1.2 Application Updates: Ensure that all applications installed on Windows 10 endpoint workstations are up-to-date with the latest security updates and patches.
+    1.3 Configuration Management: Ensure that all Windows 10 endpoint workstations are configured according to company policies and best practices for security.
+
+    Anti-Malware Protection
+    2.1 Anti-Virus Software: Install and configure anti-virus software on all Windows 10 endpoint workstations.
+    2.2 Malware Scanning: Perform regular malware scans on all Windows 10 endpoint workstations to detect and remove any potential threats.
+
+    Data Protection
+    3.1 Backup and Recovery: Implement a backup and recovery solution to protect company data in the event of data loss or corruption.
+    3.2 Encryption: Encrypt sensitive company data stored on Windows 10 endpoint workstations to prevent unauthorized access.
+
+    User Access Management
+    4.1 User Account Control: Enable User Account Control (UAC) to restrict user access to critical system settings and files.
+    4.2 User Permissions: Ensure that user permissions are properly configured to prevent unauthorized access to sensitive company data and systems.
+
+    Physical Security
+    5.1 Workstation Physical Security: Ensure that all Windows 10 endpoint workstations are physically secured and that access is restricted to authorized personnel only.
+    5.2 Device Encryption: Implement device encryption to protect data in case of loss or theft of a workstation.
+
+    Monitoring and Incident Response
+    6.1 Security Monitoring: Monitor Windows 10 endpoint workstations for security incidents and events.
+    6.2 Incident Response: Develop and implement an incident response plan to handle security incidents and events on Windows 10 endpoint workstations.
