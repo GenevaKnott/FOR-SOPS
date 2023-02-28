@@ -36,7 +36,7 @@ The Roots Team consist of a well developed team with a variety of skillsets from
 
 + How will remote, offsite support engagements take place?
 
-[Remote, Offsite support engagement](https://github.com/THE-ROOTS/FOR-SOPS/blob/main/Remote%2C%20offsite%20support%20engagements%20take%20place)
+[Remote, Offsite support engagement](https://github.com/THE-ROOTS/FOR-SOPS/blob/main/Remote%20Offsite%20Support.pdf)
 
 + How will you secure Windows 10 endpoint workstations from data loss and malware threats?
 
