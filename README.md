@@ -8,6 +8,8 @@ The Roots Team consist of a well developed team with a variety of skillsets from
 
 + How will you backup and restore user data, critical infrastructure configurations and hosted data?
 
+            [Backup and Restore](https://github.com/THE-ROOTS/FOR-SOPS/blob/main/Backup%20and%20Recovery%20Procedures.pdf) 
+
 + How will you securely dispose of sensitive data from storage media?
 
 + How will you perform the support engagements/interactions?
