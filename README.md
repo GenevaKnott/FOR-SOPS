@@ -26,6 +26,8 @@ The Roots Team consist of a well developed team with a variety of skillsets from
 
 + How will technology needs be handled for employees being onboarded?
 
+[Handling technology needs for Onboarding Employee](https://github.com/THE-ROOTS/FOR-SOPS/blob/main/Handling%20Technology%20issues%20for%20Onboarding%20Employees)
+
 + How will technology needs be handled for employees being terminated?
 
 [Handling technology issues for terminated employee](https://github.com/THE-ROOTS/FOR-SOPS/blob/main/Handling%20Technology%20issues%20for%20Terminated%20Employees)
