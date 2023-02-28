@@ -40,6 +40,8 @@ The Roots Team consist of a well developed team with a variety of skillsets from
 
 + How will you administer and support Windows systems?
 
+[Administring support Windows system](https://github.com/THE-ROOTS/FOR-SOPS/blob/main/Administering%20and%20support%20windows%20%20System)
+
 + How will your company enhance the network’s usability and security?
 
 + How will you support company cloud services?
