@@ -36,6 +36,8 @@ The Roots Team consist of a well developed team with a variety of skillsets from
 
 + How will you secure Windows 10 endpoint workstations from data loss and malware threats?
 
+[Securing windows 10 endpoint workstations](https://github.com/THE-ROOTS/FOR-SOPS/blob/main/Securing%20Windows%2010%20Endpoint%20Workstations)
+
 + How will you administer and support Windows systems?
 
 + How will your company enhance the network’s usability and security?
