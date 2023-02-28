@@ -20,6 +20,8 @@ The Roots Team consist of a well developed team with a variety of skillsets from
 
 + What troubleshooting methodology will your technicians follow during support engagements?
 
+[troubleshooting methodology](
+
 + How will user or department technology purchase requests be handled?
 
 + How will technology needs be handled for employees being onboarded?
