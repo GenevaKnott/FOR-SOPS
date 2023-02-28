@@ -24,6 +24,8 @@ The Roots Team consist of a well developed team with a variety of skillsets from
 
 + How will user or department technology purchase requests be handled?
 
+[Department Technology Request](https://github.com/THE-ROOTS/FOR-SOPS/blob/main/Department%20Technology%20Purchase%20Requests.pdf)
+
 + How will technology needs be handled for employees being onboarded?
 
 [Handling Technology Needs for Onboarding Employee](https://github.com/THE-ROOTS/FOR-SOPS/blob/main/Handling%20Technology%20for%20Onboard.pdf)
